@@ -54,7 +54,7 @@ Before running the Expense Tracker application, ensure you have the following in
    php artisan serve
    ```
 
-2. Access the application in your web browser at `http://localhost:8000`.
+2. Access the application in your web browser at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
