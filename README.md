@@ -1,6 +1,3 @@
-Sure, here's a basic template for your README.md file:
-
-
 # Expense Tracker
 
 Expense Tracker is a web application designed to help users track their expenses and manage their transactions.
