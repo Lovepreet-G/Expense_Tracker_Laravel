@@ -1,6 +1,3 @@
-Sure, here's a basic template for your README.md file:
-
-
 # Expense Tracker
 
 Expense Tracker is a web application designed to help users track their expenses and manage their transactions.
@@ -61,7 +58,7 @@ Before running the Expense Tracker application, ensure you have the following in
    php artisan serve
    ```
 
-2. Access the application in your web browser at `http://localhost:8000`.
+2. Access the application in your web browser at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
