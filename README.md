@@ -46,6 +46,13 @@ Before running the Expense Tracker application, ensure you have the following in
    ```bash
    php artisan migrate:refresh --seed
 
+5. Test Login:
+
+   ```bash
+   Email : test@example.com
+   Password : password
+
+
 ## Usage
 
 1. Start the development server:
@@ -57,6 +64,9 @@ Before running the Expense Tracker application, ensure you have the following in
 2. Access the application in your web browser at `http://localhost:8000`.
 
 ## Screenshots
+
+### Login Page
+![Login Page](/resources/Login.jpg)
 
 ### Home Page
 ![Home Page](/resources/index_page.jpg)
